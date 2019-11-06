@@ -1,0 +1,5 @@
+..AAD
+..B.D
+.BE.C
+...EC
+..ECH
